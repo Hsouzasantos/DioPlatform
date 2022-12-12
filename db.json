@@ -1,0 +1,7 @@
+{
+    "users": [
+      { "id": 1, "name": "fulano", "email": "fulano@gemail.com", "senha":"987654" },
+      { "id": 2, "name": "ciclano", "email": "ciclano@gemail.com", "senha":"987654" },
+      { "id": 3, "name": "eu", "email": "eu@gemail.com", "senha":"987654" }
+    ]
+}
